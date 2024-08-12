@@ -17,7 +17,7 @@ let value1 = 900719925124740998n;
 let value2 = 900719925124740998n;
 // add two big integers
 let result1 = value1 + 1n + value2;
-console.log(result1);  // "900719925124740999n"
+console.log(result1);  // "900719925124740999n".
 
 
 
