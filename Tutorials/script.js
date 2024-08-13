@@ -21,7 +21,7 @@ let result1 = value1 + 1n + value2;
 
 
   // type conversion
-  
+   
 // numeric string used with + gives string type
 let result;
 
